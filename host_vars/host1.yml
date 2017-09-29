@@ -1,0 +1,4 @@
+mountinfo:
+  - src: node1:/data/dirA
+    dst: /mountpointA
+    fstype: nfs
